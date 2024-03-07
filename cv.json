@@ -1,66 +1,91 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Alberto Núñez Maneiro",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "albertonunezmaneiro@gmail.com",
+    "phone": "+56 9 3507 6737",
+    "url": "https://albertonunez.dev",
+    "summary": "Software Engineer con más de 10 años en backend, experto en PHP, Laravel, WordPress, y bases de datos como MySQL, PostgreSQL, Oracle, Redis y MongoDB. Habilidades en React, Vue, Outsystems, Linux y Docker, aprendiendo sobre Go, Java y AWS.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "8320000",
+      "city": "Santiago de Chile",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "albertonunezm",
+        "url": "https://linkedin.com/in/albertonunezm"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "albertonunezm",
+        "url": "https://github.com/albertonunezm"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Babel",
+      "position": "Software Engineer Back",
+      "url": "https://babelgroup.com/",
+      "startDate": "2023-02-22",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Mantuve y actualicé constantemente sitios en WordPress, asegurando su eficacia y seguridad, y diseñé plugins personalizados para mejorar la experiencia del usuario. Administré entornos de test y producción en servidores Linux, optimizando el rendimiento con PHP, Nginx/Apache, y bases de datos Oracle/MySQL. Mejoré significativamente los sistemas de información para satisfacer las necesidades organizativas, corregí vulnerabilidades en colaboración con el equipo del CSIRT para reforzar la seguridad TI, y promoví el uso de GitLab para optimizar la colaboración y el flujo de trabajo en desarrollo de software.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "EmprenTech",
+      "position": "Full Stack Developer",
+      "url": "https://emprentech.cl",
+      "startDate": "2017-05-01",
+      "endDate": "2023-12-31",
+      "summary": "Desarrollé tiendas virtuales personalizadas en WordPress, optimizando la presencia en línea de cada cliente. Implementé Sistemas de Gestión de Información con PHP y Laravel, centrando la atención en la robustez y eficiencia para la mejora de la gestión empresarial. Ofrecí asesoramiento y soporte técnico a emprendedores, promoviendo el desarrollo y eficiencia de sus negocios. Además, integré APIs de plataformas líderes, mejorando la interconectividad y automatización, lo cual elevó la eficiencia operativa y la experiencia del usuario.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Bambu B2B",
+      "position": "Software Engineer",
+      "startDate": "2018-08-01",
+      "endDate": "2018-11-31",
+      "summary": "Desarrollé reportes gráficos interactivos con JavaScript para optimizar la visualización y análisis de datos. Gestioné y mejoré la base de datos B2B, garantizando la precisión y accesibilidad de información clave. Realicé mejoras significativas en el sistema web con PHP, aumentando la eficiencia operativa y la satisfacción del usuario.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TechnoPoints Chile Ltda",
+      "position": "Ingeniero en Informática",
+      "startDate": "2017-05-01",
+      "endDate": "2017-11-31",
+      "summary": "Dirigí el desarrollo del sitio web corporativo, integrando tecnologías avanzadas y prácticas de diseño para crear una plataforma que reflejara fielmente la identidad de la organización. Implementé un programa de mantenimiento para las computadoras, asegurando su funcionamiento óptimo y reduciendo inactividades, incluyendo actualizaciones de software y reparaciones de hardware. Además, proporcioné soporte técnico exhaustivo, solucionando problemas técnicos diversos y mejorando la habilidad tecnológica del personal mediante asesoramiento y capacitación.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Multitel / Tu TV",
+      "position": "Social Media Manager",
+      "startDate": "2016-02-01",
+      "endDate": "2017-04-30",
+      "summary": "Implementé una estrategia de marketing digital para Multitel, aumentando su visibilidad y engagement. Mejoré la comunicación digital interna y la atención al cliente, y capacité al personal en marketing digital, fortaleciendo las habilidades del equipo. Desarrollé el sitio web de Tu TV, mejorando la experiencia de usuario y ampliando su alcance. Además, lideré campañas de responsabilidad social, reforzando la imagen pública de la empresa, y creé herramientas interactivas web para involucrar al equipo en actividades innovadoras.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Tecnograficas",
+      "position": "Informático",
+      "startDate": "2007-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Desarrollé soluciones web personalizadas para más de 20 clientes empleando HTML, CSS, y PHP, y realicé mantenimiento a sistemas informáticos, asegurando su óptimo desempeño. Ofrecí asesorías técnicas a empresas para optimizar sus operaciones mediante tecnologías avanzadas. Lideré eventos educativos en Sucre y Monagas con figuras como Richard Stallman, promoviendo la alfabetización digital y el conocimiento tecnológico. Implementé estrategias de marketing digital, elevando la presencia en línea de clientes. Contribuí significativamente a la digitalización del Carnaval Turístico Internacional de Carúpano, desde la gestión web y redes sociales hasta la coordinación de contenido visual y relaciones públicas, fortaleciendo su impacto en la comunidad.",
       "highlights": [
         "Started the company"
       ]
@@ -78,16 +103,10 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "Universidad Politécnica Territorial de Paria 'Luis Mariano Rivera' ",
+    "area": "Ingeniero en Informática",
+    "startDate": "2010-01-01",
+    "endDate": "2016-01-01"
   }],
   "awards": [{
     "title": "Award",
@@ -181,6 +200,13 @@
     },
     {
       "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "PHP",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
